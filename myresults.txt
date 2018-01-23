@@ -1,0 +1,13 @@
+Input data file: mydata.txt
+krista
+27-Apr-2016
+
+Median = 10.00
+Mode   = 12.00
+Var    = 19.14
+Stdev  = 4.38
+Min    = 2.00
+Max    = 12.00
+Count  = 7
+
+
